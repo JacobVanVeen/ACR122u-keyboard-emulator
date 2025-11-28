@@ -1,5 +1,5 @@
 # ACR122u-keyboard-emulator
-A python script that reads nfc tags and types the text record through a keyboard emulator.
+A python script that reads nfc tags and types the first text record it finds through a keyboard emulator.
 
 ## Instalation:
 Run pip -r requirements.txt
